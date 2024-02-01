@@ -43,3 +43,5 @@ buildNumber.properties
 
 mvnw
 mvnw.cmd
+public/node_modules
+public/node_modules

@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.tnite</groupId>
-	<artifactId>job-winner</artifactId>
+	<artifactId>shoot-your-shot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>job-hunt</name>
 	<description>Job Winner Backend</description>
